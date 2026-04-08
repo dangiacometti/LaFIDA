@@ -11,6 +11,10 @@ website:
       Images © All rights reserved
     right: |
       Built with Quarto · Hosted on GitHub Pages
+    center: |
+      <script type="text/javascript" id="mapmyvisitors"
+        src="//mapmyvisitors.com/map.js?d=pg2UcoHnraZ67djY5p59Sn_5vMjdh8iBuMuGF35Wbc8&cl=ffffff&w=a">
+      </script>
 
   navbar:
     left:
