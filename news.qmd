@@ -1,0 +1,29 @@
+---
+title: "Lab news"
+---
+
+---
+title: "Lab news"
+---
+
+## XXXXX 2026
+
+::: {.columns}
+
+::: {.column width="30%"}
+![](images/lab-news/ib.png)
+:::
+
+::: {.column width="70%"}
+
+### We have a new home!
+
+LaFIDA has just arrived at the [University of São Paulo](https://www5.usp.br/){target="_blank"}
+
+:::
+
+:::
+
+---
+
+[View older news →](news-archive.qmd)
