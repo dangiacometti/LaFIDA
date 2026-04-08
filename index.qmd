@@ -6,7 +6,7 @@ title: "Home"
 
 Welcome to the **Laboratory of Integrative Physiology and Animal Performance (LaFIDA)**. LaFIDA is based at the Department of Physiology, Institute of Biosciences, University of São Paulo, Brasil.
 
-At LaFIDA, we investigate how environmental conditions shape the physiology and behaviour of animals. Our research focuses on the integration of thermal biology, water balance, and energetics within a comparative framework. While our research focuses primarily on ectothermic vertebrates such as amphibians and reptiles, we adopt [Krogh’s principle](https://doi.org/10.1242/jeb.095505) and select study systems that best match the question being addressed.
+At LaFIDA, we investigate how environmental conditions shape the physiology and behaviour of animals. Our research focuses on the integration of thermal biology, water balance, and energetics within a comparative framework. While our research focuses primarily on ectothermic vertebrates such as amphibians and reptiles, we adopt Krogh’s principle and select study systems that best match the question being addressed.
 
 By combining laboratory experiments, field studies, and quantitative syntheses, we aim to understand how organisms cope with environmental variation across time and space, and how these responses influence their performance in a changing world.
 

@@ -1,8 +1,7 @@
 ---
-title: " "
+title: "Join the lab"
 ---
 
-# Join the lab
 Our lab is always interested in welcoming motivated people interested in:
 
 - Thermal and hydric biology
