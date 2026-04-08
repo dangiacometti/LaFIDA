@@ -28,7 +28,9 @@ By combining laboratory experiments, field studies, and quantitative syntheses, 
 <a href="https://bsky.app/profile/giacometti.bsky.social" target="_blank"> <img src="images/bluesky.png"/> </a>
 :::
 
-::: {style="text-align: center; margin-top: 40px; opacity: 0.9;"}
+## Visitors
+
+::: {style="text-align: center; margin-top: 10px;"}
 ```{=html}
 <script type="text/javascript" id="mapmyvisitors"
     src="//mapmyvisitors.com/map.js?d=pg2UcoHnraZ67djY5p59Sn_5vMjdh8iBuMuGF35Wbc8&cl=ffffff&w=a">
