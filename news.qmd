@@ -10,7 +10,7 @@ title: "Lab news"
 
 ::: {.columns}
 
-::: {.column width="30%"}
+::: {.column width="50%"}
 ![](images/lab-news/ib.png)
 :::
 
@@ -23,7 +23,3 @@ LaFIDA has just arrived at the [University of São Paulo](https://www5.usp.br/){
 :::
 
 :::
-
----
-
-[View older news →](news-archive.qmd)
